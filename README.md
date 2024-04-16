@@ -26,7 +26,7 @@ Welcome to Project Name! This project utilizes Node.js, MongoDB, and Express.js 
 - **Delete User:** Provides functionality to delete user accounts.
 
 ## Usage ℹ️
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/krupaliChotaliya/NodeJs-learn`
 2. Install dependencies: `npm install`
 3. Set up environment variables for MongoDB connection, email configuration, etc.
 4. Run the application: `npm start`
