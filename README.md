@@ -25,7 +25,7 @@ This project utilizes Node.js, MongoDB, and Express.js to create a powerful back
 - **Delete Profile:** Allows users to delete their profiles.
 - **Delete User:** Provides functionality to delete user accounts.
 
-## Usage ℹ️
+## Installation process ℹ️
 1. Clone the repository: `git clone https://github.com/krupaliChotaliya/NodeJs-learn`
 2. Install dependencies: `npm install`
 3. Set up environment variables for MongoDB connection, email configuration, etc.
