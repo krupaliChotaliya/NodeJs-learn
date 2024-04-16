@@ -1,6 +1,6 @@
 # NodeJs-learn 🚀
 
-Welcome to Project Name! This project utilizes Node.js, MongoDB, and Express.js to provide various functionalities such as user authentication, message management, and user profile management.
+This project utilizes Node.js, MongoDB, and Express.js to create a powerful backend system for managing users and messages. It provides functionality for user authentication, managing user profiles, and handling messages.
 
 ## Technologies Used 🛠️
 - Node.js
